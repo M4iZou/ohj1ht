@@ -1,4 +1,3 @@
-# ohj1ht
 Git varasto ITKP102 Ohjelmointi 1 -harjoitustyötä varten.
 
 Tekijä: Miso Finne
