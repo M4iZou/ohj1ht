@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1i8kkNgnyI4Rc1NLaD8KnhMfAclMQ6a0+1ccdor7VnzcWwd2fnpK7ZZcNNWqsoc05EXQ4GvdYi5vXZ1k8bHEVg==",
+  "success": true,
+  "projectFilePath": "M:\\Programming\\Ohj1 2024\\HT\\ohj1ht\\numbersort\\NumberSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

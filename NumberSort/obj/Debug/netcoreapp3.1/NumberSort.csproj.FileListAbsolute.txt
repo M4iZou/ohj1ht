@@ -1,0 +1,13 @@
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\bin\Debug\netcoreapp3.1\NumberSort.exe
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\bin\Debug\netcoreapp3.1\NumberSort.deps.json
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\bin\Debug\netcoreapp3.1\NumberSort.runtimeconfig.json
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\bin\Debug\netcoreapp3.1\NumberSort.runtimeconfig.dev.json
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\bin\Debug\netcoreapp3.1\NumberSort.dll
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\bin\Debug\netcoreapp3.1\NumberSort.pdb
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\obj\Debug\netcoreapp3.1\NumberSort.csprojAssemblyReference.cache
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\obj\Debug\netcoreapp3.1\NumberSort.AssemblyInfoInputs.cache
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\obj\Debug\netcoreapp3.1\NumberSort.AssemblyInfo.cs
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\obj\Debug\netcoreapp3.1\NumberSort.csproj.CoreCompileInputs.cache
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\obj\Debug\netcoreapp3.1\NumberSort.dll
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\obj\Debug\netcoreapp3.1\NumberSort.pdb
+M:\Programming\Ohj1 2024\HT\ohj1ht\numbersort\obj\Debug\netcoreapp3.1\NumberSort.genruntimeconfig.cache
